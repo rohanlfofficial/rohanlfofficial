@@ -1,4 +1,4 @@
-![MasterHead](https://imgtr.ee/images/2023/06/05/bNSi3.png)
+![MasterHead](https://imgtr.ee/images/2023/06/05/bNiKM.png)
 <h1 align="center">Hi 👋, I'm Rohan LF De Silva</h1>
 <h3 align="center">A passionate mobile app developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNlZmI3ZGM1N2UyNTRmZjEzZGZlMzg0NTA2MjdiNzU3YWExMjJmYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
